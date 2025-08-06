@@ -15,6 +15,7 @@ I'm a final-year Computer Science and Engineering student at **Vellore Institute
 
 ---
 
+
 ## 🛠️ Tech Stack & Tools
 
 ### 🧑‍💻 Languages  
@@ -54,23 +55,18 @@ I'm a final-year Computer Science and Engineering student at **Vellore Institute
 ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge)
 ![Adaptability](https://img.shields.io/badge/Adaptability-teal?style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EakshithaCheppali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EakshithaCheppali&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=EakshithaCheppali&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
+
+
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eakshitha-c-80671927a/)  
 📧 **Email**: eakshitha2005@gmail.com  
 
+
 ---
 
 Thanks for visiting! Feel free to check out my projects.
+of my 
