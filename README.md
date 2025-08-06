@@ -15,42 +15,6 @@ I'm a final-year Computer Science and Engineering student at **Vellore Institute
 
 ---
 
-## 💻 Personal Projects
-
-### 🏠 [Hostel Assist Application](#)
-**Tech:** MERN Stack (MongoDB, Express, React, Node.js)  
-Built a role-based platform to manage hostel complaints:
-- JWT-based authentication with OTP email verification (Nodemailer)
-- Real-time complaint tracking, history logging, REST APIs
-- Separate dashboards for students and admins
-
----
-
-### 📰 [Multilingual News Summarization & Sentiment Tool](#)
-**Tech:** Python, Flask, NLP  
-Summarizes news articles, analyzes sentiment, and supports multilingual translation:
-- Used Sumy, TextBlob, newspaper3k, Google Translate API
-- RESTful Flask backend with dynamic UI using HTML/CSS/JS
-
----
-
-### ✉️ [HashMail-Pro: AI Email & Hashtag Generator](#) – [Live App](#)
-**Tech:** Streamlit, Python, Groq API  
-- LLM-powered tool that generates marketing/collab emails + hashtags
-- Gmail SMTP integration for sending real-time emails securely
-
----
-
-## 🧪 Experience
-
-### Infosys Springboard Internship (Nov 2024 – Feb 2025)  
-- Participated in an AI-based simulation project with 25+ members  
-- Contributed to frontend layout using HTML, CSS, JavaScript  
-- Gained exposure to real-world industry AI practices and soft skills
-
----
-
-
 
 ## 🛠️ Tech Stack & Tools
 
@@ -104,4 +68,4 @@ Summarizes news articles, analyzes sentiment, and supports multilingual translat
 
 ---
 
-_Thanks for visiting! Feel free to check out my projects.
+Thanks for visiting! Feel free to check out my projects.
