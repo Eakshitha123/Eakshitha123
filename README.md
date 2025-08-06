@@ -76,7 +76,7 @@ Summarizes news articles, analyzes sentiment, and supports multilingual translat
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eakshitha-c-80671927a/)  
 📧 **Email**: eakshitha2005@gmail.com  
 🌐 *Portfolio: Coming soon!*
 
